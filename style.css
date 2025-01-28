@@ -1,0 +1,38 @@
+body{
+    background-color:#000000;
+}
+
+h1{
+    color: #FFFFFF;
+    font-family: "Press Start 2P", "consolas", sans-serif;
+   }
+
+   h2{
+    color: #ff0000;
+    font-family: "consolas", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+   }
+
+p{
+ color: #00FF73;
+ font-family: "consolas", sans-serif;
+ font-style: normal;
+ font-weight: bold;
+ font-size: 18px;
+}
+center{
+    color: #00FF73;
+    font-family: "consolas", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+   }
+   a{
+    color: #00a249;
+    font-family: "consolas", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+   }
